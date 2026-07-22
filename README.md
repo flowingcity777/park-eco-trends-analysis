@@ -39,9 +39,9 @@ The project includes:
 
 ## Repository Structure
 
-ParkEcoTrends-Analysis/
+park-eco-trends-analysis/
 │
-├── ParkEcoTrends_Analysis.ipynb
+├── park_eco_trends_analysis.ipynb
 ├── README.md
 └── requirements.txt
 
