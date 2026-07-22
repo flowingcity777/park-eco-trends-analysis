@@ -37,14 +37,6 @@ The project includes:
 - Statistical visualization
 - Environmental pattern interpretation
 
-## Repository Structure
-
-park-eco-trends-analysis/
-│
-├── park_eco_trends_analysis.ipynb
-├── README.md
-└── requirements.txt
-
 ## Dataset Notice
 
 Datasets used in this project may originate from educational, public, or analytical sources and may not be included directly in this repository.
