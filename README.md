@@ -1,4 +1,4 @@
-# ParkEcoTrends Analysis
+# Park Eco Trends Analysis
 
 Archived repository for an environmental data analysis project originally completed during coursework on Codecademy.
 
